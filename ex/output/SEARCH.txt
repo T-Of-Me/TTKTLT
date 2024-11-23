@@ -1,0 +1,147 @@
+anhttt
+11111112
+5
+chau thi hoang my
+5
+4
+2005
+anhttt
+11111124
+5.2
+luu kim toan
+17
+4
+2000
+anhttt
+11111130
+5.3
+nguyen anh tin
+23
+4
+2003
+anhttt
+11111136
+5.4
+nguyen dinh loc
+29
+4
+2001
+anhttt
+11111118
+5.5
+hoang anh vu
+11
+4
+2002
+bdattt
+1000ABCA
+5.6
+Phan Thanh tung
+5
+6
+2005
+bdattt
+12121212
+5.6
+tung a
+9
+5
+2005
+anhttt123
+12345678
+5.6
+bao ngoc
+12
+6
+2005
+bdattt
+11111111
+5.6
+duy duy 
+16
+10
+2013
+bdattt
+10045678
+5.6
+nguyen vu thao
+15
+3
+2005
+bdattt
+BB345678
+5.6
+hoang anh vu
+30
+1
+2005
+bdattt
+CC345678
+5.6
+tran trong nam
+9
+5
+2005
+tlpk
+10000000
+5.6
+tran ngon bich
+15
+10
+2005
+tlpk
+1000000A
+5.6
+do anh tai
+5
+12
+2005
+tlpk
+12345678
+5.6
+lo thi anh
+4
+4
+2005
+tlpk
+1000112P
+5.6
+bui hai lo
+7
+9
+2005
+anhttt
+11111113
+6
+vo ta tho
+6
+4
+2005
+anhttt
+11111125
+6.2
+nguyen thi vinh
+18
+4
+2003
+anhttt
+11111131
+6.3
+nguyen trinh bao long
+24
+4
+2001
+anhttt
+11111137
+6.4
+le quang truong anh
+30
+4
+2004
+anhttt
+11111119
+6.5
+dau vu thinh
+12
+4
+2000
